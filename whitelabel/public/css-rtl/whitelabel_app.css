@@ -2,5 +2,5 @@ li.dropdown.dropdown.dropdown-help.dropdown-mobile {
 	display: none!important;
 }
 .v-application--is-ltr .v-responsive__sizer~.v-responsive__content {
-    margin-left: 0;
+    margin-left: 0 !important;
 }
